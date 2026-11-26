@@ -1,0 +1,1 @@
+sum(doc('file:///C:/Users/lukas/Desktop/XPath-XSLT/zesp_prac.xml')//PRACOWNICY[ROW/NAZWISKO='BRZEZINSKI']/ROW/PLACA_POD)
